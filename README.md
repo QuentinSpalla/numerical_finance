@@ -19,7 +19,7 @@ Il est a modifier pour obtenir
 HJB ==> variable de controle. 
 Pas de moyen de comparer donc pas très bien
 
-
+cle
 3/
 
 Il faut calculer numériquement la fonction u. Déjà fait en 4.2, il faut le faire pour notre exo
